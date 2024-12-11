@@ -50,7 +50,7 @@ Dataset Links of This Project :
 - Link Hi-Fi Technician Design : [Technician Hi-Fi](#)
 - Link Prototype Design : [Prototype](#)
 
-## Deployment Link APK Obeng
+## Deployment Link APK Teknisiku
 
 Download Link APK Teknisiku:<br>
 [Teknisiku (Google Drive)](#)
