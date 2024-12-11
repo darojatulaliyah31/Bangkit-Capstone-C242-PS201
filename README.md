@@ -1,49 +1,57 @@
-# Obeng - Online Bengkel App
+# Teknisiku App
+## Bangkit Capstone Project 2024 Batch 2
 
-## Bangkit Capstone Project 2023
+Bangkit Capstone Team ID : C242 - PS201 <br>
+Here is our team Capstone Product Based repository for Bangkit 2024 Batch 2 Capstone project. Our team consist of 2 Mobile Development, 3 Machine Learning, and 2 Cloud Computing.
 
-**Bangkit Capstone Team ID: C23 - P3621**  
-Here is our team Capstone Product Based repository for Bangkit 2023 Capstone project. Our team consists of 2 Mobile Development, 2 Machine Learning, and 2 Cloud Computing.
+## Our Soldiers
 
----
+| Name                        |   Bangkit-ID  |    Learning Path  |          Contact Link             |
+|-----------------------------|---------------|-------------------|-----------------------------------|
+| Wiola Derul Rahayu          | M284B4KX4501  | Mobile Development| [LinkedIn](#) or [GitHub](#)      |
+| Jelang Ramadhan             | M284B4KY2050  | Mobile Development| [LinkedIn](#) or [GitHub](#)      |
+| Rafika Nanda Agustina       | M284B4KX359   | Machine Learning  | [LinkedIn](#) or [GitHub](#)      |
+| Darojatul Aliyah            | C004B4KX1004  | Machine Learning  | [LinkedIn](#) or [GitHub](#)      |
+| Reni Tri Susanti            | C013B4KX3750  | Cloud Computing   | [LinkedIn](#) or [GitHub](#)      |
+| Dika Setiawan               | A177B4KY1129  | Cloud Computing   | [LinkedIn](#) or [GitHub](#)      |
+| Alfirdous Geraldi Agviandra | A175B4KY0364  | Cloud Computing   | [LinkedIn](#) or [GitHub](#)      |
 
-### Our Warriors
 
-| Name                       | Bangkit-ID  | Learning Path     | Contact Link                     |
-|----------------------------|-------------|-------------------|-----------------------------------|
-| Nadzhan Yuqzi Al Mubarak    | A16DSX2088  | Mobile Development| [LinkedIn](#) or [GitHub](#)      |
-| Rakha Satria Pratama        | A36DSX1045  | Mobile Development| [LinkedIn](#) or [GitHub](#)      |
-| Enriza Alyaa Budiastomo     | M29DSY0837  | Machine Learning  | [LinkedIn](#) or [GitHub](#)      |
-| Dzakra Tazkirah             | M29DSY0165  | Machine Learning  | [LinkedIn](#) or [GitHub](#)      |
-| Thommy Octa Alpama Putra    | C06DSXY149  | Cloud Computing   | [LinkedIn](#) or [GitHub](#)      |
-| Aulia Anggraini             | C06DSXY238  | Cloud Computing   | [LinkedIn](#) or [GitHub](#)      |
+## About this project
 
----
+Teknisiku is an application that provides information services regarding the best service recommendations for users based on the closest distance and the best rating. In this application there is a main feature, namely the home page which immediately displays recommendations for service places for users. In addition to the main feature, there is also an additional feature in the form of a solution feature that provides information about common device problems along with solutions that users can apply independently. In addition to these two features, there is an additional feature where users can save favorite service places so that it is easy to find them again in the future. Please enjoy the features provided by our application 😊😊😊😊
 
-### About this project
+## Documentation
 
-Obeng (Online Bengkel) is an innovative application that provides vehicle repair and service solutions. With Obeng, users can easily find skilled and reliable automotive technicians to handle their vehicle repairs. The application facilitates users in searching, booking, and monitoring the repair process in real-time. Enjoy a convenient and trustworthy vehicle repair experience with the Obeng app.
+![TEKNISIKU](https://storage.googleapis.com/foto-tempat-service/logo/Logo.png)<br>
 
----
+## Repositories
 
-### Documentation
+|    Branch Name     |                                      Branch Link                                         |
+| :----------------: | :--------------------------------------------------------------------------------------: |
+| Mobile Development | [MD Branch](#) |
+|  Cloud Computing   | [CC Branch](#) |
+|  Machine Learning  | [ML Branch](#) |
 
-![Obeng App Screenshots](https://storage.googleapis.com/foto-tempat-service/logo/Logo.png) <!-- Ganti link ini dengan gambar yang relevan -->
+## API Documentations
 
-_Obeng (Bengkel Online) adalah aplikasi inovatif yang memberikan solusi untuk perbaikan dan perawatan kendaraan. Pengguna juga dapat dengan mudah untuk memesan, memantau, dan menemukan teknisi profesional dan andal untuk melakukan perbaikan pada kendaraan yang bermasalah. Nikmati perawatan kendaraan yang mudah, nyaman dan andal dengan aplikasi Obeng!_
+API Documentation Endpoint : [Endpoint](#)
 
----
+## Datasets
 
-### Repositories
+Dataset Links of This Project :
 
-| Branch Name         | Branch Link     |
-|---------------------|-----------------|
-| Mobile Development  | [MD Branch](#)  |
-| Cloud Computing     | [CC Branch](#)  |
-| Machine Learning    | [ML Branch](#)  |
+- [Dataset 1](#)
+- [Dataset 2](#)
 
----
+## UI/UX Design
 
-### API Documentations
+- Link Lo-Fi Design : [Lo-Fi](#)
+- Link Hi-Fi User Design : [User Hi-Fi](#)
+- Link Hi-Fi Technician Design : [Technician Hi-Fi](#)
+- Link Prototype Design : [Prototype](#)
 
-<!-- Tambahkan dokumentasi API di sini jika ada -->
+## Deployment Link APK Obeng
+
+Download Link APK Obeng:<br>
+[ObengAPK (Google Drive)](#)
