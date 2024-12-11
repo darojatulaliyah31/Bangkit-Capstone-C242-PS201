@@ -53,5 +53,5 @@ Dataset Links of This Project :
 
 ## Deployment Link APK Obeng
 
-Download Link APK Obeng:<br>
-[ObengAPK (Google Drive)](#)
+Download Link APK Teknisiku:<br>
+[Teknisiku (Google Drive)](#)
