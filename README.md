@@ -29,7 +29,7 @@ Teknisiku is an application that provides information services regarding the bes
 
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](https://github.com/wioladerul/Capstone_Project/tree/main) |
+| Mobile Development | [MD Branch](#) |
 |  Cloud Computing   | [CC Branch](#) |
 |  Machine Learning  | [ML Branch](#) |
 
