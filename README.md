@@ -8,7 +8,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Batch 2 Caps
 
 | Name                        |   Bangkit-ID  |    Learning Path   |          Contact Link             |
 |-----------------------------|---------------|--------------------|-----------------------------------|
-| Wiola Derul Rahayu          | M284B4KX4501  | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
+| Wiola Derul Rahayu          | M284B4KX4501  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/wioladerulrahayu) or [GitHub](https://github.com/wioladerul/)|
 | Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
 | Rafika Nanda Agustina       | M284B4KX359   | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
 | Darojatul Aliyah            | C004B4KX1004  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
