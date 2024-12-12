@@ -9,7 +9,7 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Batch 2 Caps
 | Name                        |   Bangkit-ID  |    Learning Path   |          Contact Link             |
 |-----------------------------|---------------|--------------------|-----------------------------------|
 | Wiola Derul Rahayu          | M284B4KX4501  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/wioladerulrahayu) or [GitHub](https://github.com/wioladerul/)|
-| Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
+| Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](www.linkedin.com/in/darojatul-aliyah31) or [GitHub](https://github.com/darojatulaliyah31)|  
 | Rafika Nanda Agustina       | M284B4KX359   | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
 | Darojatul Aliyah            | C004B4KX1004  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
 | Reni Tri Susanti            | C013B4KX3750  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
@@ -35,13 +35,13 @@ Teknisiku is an application that provides information services regarding the bes
 
 ## API Documentations
 
-API Documentation Endpoint : [Endpoint](#)
+API Documentation Endpoint : [Endpoint](https://www.postman.com/capstone-teknisiku-api/workspace/capstone-teknisiku-api-workspace/documentation/39952491-6b064205-feab-4104-997d-ef9df317defa)
 
 ## Datasets
 
 Dataset Links of This Project :
 
-- [Dataset](#)
+- [Dataset](https://docs.google.com/spreadsheets/d/1ZUxRrJ6_YrTMGGre9Z71Ur-j4MyOwVQ_i6tYxxmwJOw/edit?usp=sharing)
 
 ## UI/UX Design
 
