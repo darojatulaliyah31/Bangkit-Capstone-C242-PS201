@@ -1,0 +1,19 @@
+runtime: nodejs22  # Gunakan Node.js versi 22.x
+
+env: flex  # Menggunakan environment flexible untuk versi Node.js tertentu
+
+instance_class: F2  # Tentukan instance class sesuai kebutuhan
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 2
+  target_cpu_utilization: 0.65
+
+env_variables:
+  NODE_ENV: 'production'  # Tentukan variabel environment untuk production
+
+handlers:
+  - url: /static
+    static_dir: public  # Menyajikan file statis, jika ada
+  - url: /.*  # Semua request lainnya diarahkan ke aplikasi Express.js
+    script: auto
