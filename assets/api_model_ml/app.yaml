@@ -1,0 +1,13 @@
+runtime: custom  # Gunakan custom runtime dengan Docker
+
+entrypoint: gunicorn -b :$PORT app:app  # Menjalankan Flask menggunakan gunicorn
+
+instance_class: F2  # Tentukan spesifikasi instance (ubah sesuai kebutuhan)
+
+automatic_scaling:
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 2
+
+env_variables:
+  MODEL_PATH: "autoencoder_model.h5"  # Path ke file model
