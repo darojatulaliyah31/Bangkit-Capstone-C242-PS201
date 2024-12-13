@@ -12,9 +12,9 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Batch 2 Caps
 | Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/jelangramadhan/) or [GitHub](https://github.com/JelangR)     |  
 | Rafika Nanda Agustina       | M284B4KX359   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/rafika-nanda-agustina-2a08692a8/) or [GitHub](https://github.com/rafikananda) |
 | Darojatul Aliyah            | C004B4KX1004  | Cloud Computing    | [LinkedIn](www.linkedin.com/in/darojatul-aliyah31) or [GitHub](https://github.com/darojatulaliyah31)|
-| Reni Tri Susanti            | C013B4KX3750  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
-| Dika Setiawan               | A177B4KY1129  | Mobile Development | [LinkedIn](#) or [GitHub](#)      |
-| Alfirdous Geraldi Agviandra | A175B4KY0364  | Mobile Development | [LinkedIn](#) or [GitHub](#)      |
+| Reni Tri Susanti            | C013B4KX3750  | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/reni-tri-susanti-03662631a/) or [GitHub](#)      |
+| Dika Setiawan               | A177B4KY1129  | Mobile Development | [LinkedIn](https://www.linkedin.com/in/dika-setiawan-132a8b311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) or [GitHub](https://github.com/rennts23)      |
+| Alfirdous Geraldi Agviandra | A175B4KY0364  | Mobile Development | [LinkedIn](https://www.linkedin.com/in/alfirdous-geraldi-agviandra-1967a1243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [GitHub](#)      |
 
 
 ## About this project
