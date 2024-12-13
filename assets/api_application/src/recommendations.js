@@ -39,13 +39,15 @@ module.exports = (io) => {
 
           tempatServis.push({
             id: doc.id,
-            name: data.name,
             description: data.description,
             image: data.image,
-            location: data.location,
+            location: {
+              _latitude: data.location.latitude,
+              _longitude: data.location.longitude,
+            },
             rating: data.rating,
             review: data.review,
-            distance: distance // Tambahkan jarak ke data tempat servis
+            distance: distance, // Tambahkan jarak ke data tempat servis
           });
         });
 
@@ -70,12 +72,28 @@ module.exports = (io) => {
     }
 
     try {
-      const recommendations = await getRecommendations(latitude, longitude);
+      const recommendations = await getRecommendations(parseFloat(latitude), parseFloat(longitude));
+
+      // Format respons sesuai contoh yang diminta
+      const formattedResponse = {
+        recommendations: recommendations.map((item) => ({
+          id: item.id,
+          description: item.description,
+          image: item.image,
+          location: {
+            _latitude: item.location._latitude,
+            _longitude: item.location._longitude,
+          },
+          rating: item.rating,
+          review: item.review,
+          distance: item.distance,
+        })),
+      };
 
       // Emit event ke klien melalui Socket.IO
-      io.emit("recommendations_fetched", recommendations);
+      io.emit("recommendations_fetched", formattedResponse);
 
-      res.status(200).json({ recommendations });
+      res.status(200).json(formattedResponse);
     } catch (error) {
       res.status(500).json({ error: error.message });
     }
@@ -90,12 +108,28 @@ module.exports = (io) => {
     }
 
     try {
-      const recommendations = await getRecommendations(latitude, longitude);
+      const recommendations = await getRecommendations(parseFloat(latitude), parseFloat(longitude));
+
+      // Format respons sesuai contoh yang diminta
+      const formattedResponse = {
+        recommendations: recommendations.map((item) => ({
+          id: item.id,
+          description: item.description,
+          image: item.image,
+          location: {
+            _latitude: item.location._latitude,
+            _longitude: item.location._longitude,
+          },
+          rating: item.rating,
+          review: item.review,
+          distance: item.distance,
+        })),
+      };
 
       // Emit event ke klien melalui Socket.IO
-      io.emit("recommendations_fetched", recommendations);
+      io.emit("recommendations_fetched", formattedResponse);
 
-      res.status(200).json({ recommendations });
+      res.status(200).json(formattedResponse);
     } catch (error) {
       res.status(500).json({ error: error.message });
     }
