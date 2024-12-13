@@ -9,9 +9,9 @@ Here is our team Capstone Product Based repository for Bangkit 2024 Batch 2 Caps
 | Name                        |   Bangkit-ID  |    Learning Path   |          Contact Link             |
 |-----------------------------|---------------|--------------------|-----------------------------------|
 | Wiola Derul Rahayu          | M284B4KX4501  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/wioladerulrahayu) or [GitHub](https://github.com/wioladerul/)|
-| Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](www.linkedin.com/in/darojatul-aliyah31) or [GitHub](https://github.com/darojatulaliyah31)|  
-| Rafika Nanda Agustina       | M284B4KX359   | Machine Learning   | [LinkedIn](#) or [GitHub](#)      |
-| Darojatul Aliyah            | C004B4KX1004  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
+| Jelang Ramadhan             | M284B4KY2050  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/jelangramadhan/) or [GitHub](https://github.com/JelangR)     |  
+| Rafika Nanda Agustina       | M284B4KX359   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/rafika-nanda-agustina-2a08692a8/) or [GitHub](https://github.com/rafikananda) |
+| Darojatul Aliyah            | C004B4KX1004  | Cloud Computing    | [LinkedIn](www.linkedin.com/in/darojatul-aliyah31) or [GitHub](https://github.com/darojatulaliyah31)|
 | Reni Tri Susanti            | C013B4KX3750  | Cloud Computing    | [LinkedIn](#) or [GitHub](#)      |
 | Dika Setiawan               | A177B4KY1129  | Mobile Development | [LinkedIn](#) or [GitHub](#)      |
 | Alfirdous Geraldi Agviandra | A175B4KY0364  | Mobile Development | [LinkedIn](#) or [GitHub](#)      |
