@@ -44,11 +44,7 @@ Dataset Links of This Project :
 - [Dataset](https://docs.google.com/spreadsheets/d/1ZUxRrJ6_YrTMGGre9Z71Ur-j4MyOwVQ_i6tYxxmwJOw/edit?usp=sharing)
 
 ## UI/UX Design
-
-- Link Lo-Fi Design : [Lo-Fi](#)
-- Link Hi-Fi User Design : [User Hi-Fi](#)
-- Link Hi-Fi Technician Design : [Technician Hi-Fi](#)
-- Link Prototype Design : [Prototype](#)
+- [UI/UX Design](figma.com/design/d7BVu8eukiPMdKI2PbconU/Desain-UI-Capstone-Project-Bangkit?node-id=0-1&node-type=canvas&t=2jZHmhvKQFwQzVwF-0)
 
 ## Deployment Link APK Teknisiku
 
