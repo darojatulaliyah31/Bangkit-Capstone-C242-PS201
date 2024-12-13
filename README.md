@@ -29,9 +29,9 @@ Teknisiku is an application that provides information services regarding the bes
 
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
-| Mobile Development | [MD Branch](#) |
+| Mobile Development | [MD Branch](https://github.com/darojatulaliyah31/Bangkit-Capstone-C242-PS201/tree/Mobile-Development?tab=readme-ov-file) |
 |  Cloud Computing   | [CC Branch](https://github.com/darojatulaliyah31/Bangkit-Capstone-C242-PS201/tree/Cloud-Computing) |
-|  Machine Learning  | [ML Branch](#) |
+|  Machine Learning  | [ML Branch](https://github.com/darojatulaliyah31/Bangkit-Capstone-C242-PS201/tree/Machine-Learning) |
 
 ## API Documentations
 
