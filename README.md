@@ -49,4 +49,4 @@ Dataset Links of This Project :
 ## Deployment Link APK Teknisiku
 
 Download Link APK Teknisiku:<br>
-[Teknisiku (Google Drive)](#)
+[Teknisiku (Google Drive)](https://drive.google.com/file/d/1DpyYyIfQGwwAA_eQihxD2Q-Ur7KiqZNq/view?usp=sharing)
